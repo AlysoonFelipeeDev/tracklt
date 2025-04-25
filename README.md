@@ -14,9 +14,6 @@
 - **Tela de Hábitos:** onde você pode cadastrar novos hábitos e visualizar os já criados.
 - **Tela de Hoje:** mostra os hábitos do dia atual e permite marcar como feitos.
 
-## 📸 Prints (opcional)
-*Adicione aqui prints do projeto se quiser deixar mais apresentável no GitHub.*
-
 ## 🧑‍💻 Tecnologias usadas
 
 - React.js
