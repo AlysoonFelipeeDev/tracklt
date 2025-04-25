@@ -69,11 +69,12 @@ const Topo = styled.div`
 `;
 
 const LocalHabitos = styled.div`
-    width: 100%;
-    height: calc(100vh - 140px);
-    background-color: #eeeeee;
-    margin-top: 70px;
-    overflow-y: auto;
+width: 100%;
+  min-height: 100vh;
+  background-color: #eeeeee;
+  padding: 90px 15px 90px 15px; /* espaço pro header e footer */
+  overflow-y: auto;
+  box-sizing: border-box;
 `;
 
 const Footer = styled.footer`

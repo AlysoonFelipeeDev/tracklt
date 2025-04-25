@@ -23,7 +23,7 @@ const ButtonLogout = styled.div`
     justify-content: center;
     align-items: center;
     width: 100%;
-    margin-bottom: 20px; 
+    margin: 30px 0 80px; 
 `;
 
 const Logout = styled.button`
