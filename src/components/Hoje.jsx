@@ -74,7 +74,6 @@ const LocalHabitos = styled.div`
     background-color: #eeeeee;
     margin-top: 70px;
     overflow-y: auto;
-    position: relative;
 `;
 
 const Footer = styled.footer`
